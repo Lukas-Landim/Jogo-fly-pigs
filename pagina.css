@@ -1,0 +1,45 @@
+*{
+  margin: 0;
+}
+
+body {
+    background-image: url('Fundo.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+
+p {
+  font-family: 'Jersey 25', ;
+  text-align: center;
+  color: #ff93d9;
+  -webkit-text-stroke-color: #c03798;
+  -webkit-text-stroke-width: 1px;
+  font-size: 40px;
+ 
+  margin-left: 150px;
+  margin-right: 160px;
+
+}
+
+button {
+    background-color: rgba(0, 0, 0, 0);
+    color: none;
+    border-width: 0;
+    cursor: pointer;
+    transition: 0.3s;
+    
+}
+body{
+  text-align: center
+}
+
+#logo{
+  width: 40%;
+}
+
+#content{
+  background-color: rgba(255, 255, 255, 70%);
+  margin-left: 100px;
+  margin-right: 100px;
+}
